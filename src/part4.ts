@@ -16,7 +16,7 @@ class U {
 }
 
 const u = new U(1);
-u.id = 4;
+// u.id = 4;
 
 const user: User = { id: 1, name: 'test'}
 
@@ -30,4 +30,4 @@ const weekDays: Immutable = [
     "wednesday",
 ]
 
-weekDays[0] = 'sunday';
+// weekDays[0] = 'sunday';

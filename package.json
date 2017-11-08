@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "tsc ./src/part3.ts && node ./dist/part3.js"
+    "build": "tsc && node ./dist/part6.js"
   },
   "dependencies": {
     "typescript": "^2.6.1"

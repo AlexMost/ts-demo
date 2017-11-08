@@ -8,3 +8,5 @@ function trimAndLower(str: string) {
 const a = trimAndLower(' TEST ');
 
 console.log(trimAndLower('   TEST '));
+
+export default 1;

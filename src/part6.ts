@@ -19,4 +19,4 @@ function tryParseInt(text: string): Result {
 
 const intResult = tryParseInt('9');
 
-console.log(intResult.value);
+// console.log(intResult.value);
